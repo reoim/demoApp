@@ -1,2 +1,5 @@
 # no .db files
 *.db
+
+# no binary
+/todo
