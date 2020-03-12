@@ -3,3 +3,6 @@
 
 # no binary
 /todo
+
+# no go.sum
+/go.sum
