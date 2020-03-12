@@ -1,2 +1,2 @@
 # demoApp
-Simple web app for demo
+Simple web app with vue.js + golang
